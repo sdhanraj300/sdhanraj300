@@ -4,12 +4,12 @@ Hi 👋 My name is Dhanraj Singh
 Web Developer
 -------------
 
-I am learning HTML , CSS , JavaScript and ReactJS
+I am learning NextJS, MERN Stack
 
 * 🌍  I'm based in Noida, India
 * ✉️  You can contact me at [sdhanraj300@gmail.com](mailto:sdhanraj300@gmail.com)
 * 🧠  I'm learning ReactJS
-* ⚡  I am a Marvel Fan!
+
 
 ### Skills
 
