@@ -27,4 +27,4 @@ I am learning NextJS, MERN Stack
 
 ### Socials
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a> href="www.linkedin.com/sdhanraj300"<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
