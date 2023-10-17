@@ -8,7 +8,9 @@ I am learning NextJS, MERN Stack
 
 * 🌍  I'm based in Noida, India
 * ✉️  You can contact me at [sdhanraj300@gmail.com](mailto:sdhanraj300@gmail.com)
-* 🧠  I'm learning ReactJS
+* 🧠  I'm a MERN stack developer.
+* 👍🏻  I'm very well versed in ReactJS, TailwindCSS.
+* ✅  I'm currently working on fullstack projects that include reduxtoolkit and authentication functionality.
 
 
 ### Skills
