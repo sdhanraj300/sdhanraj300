@@ -50,20 +50,12 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sdhanraj300/count.svg?"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/sdhanraj300/sdhanraj300/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="0" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="0" src=""  />
-</div>
 
 ###
