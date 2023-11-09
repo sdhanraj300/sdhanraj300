@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Dhanraj Singh and I'm a Web Developer, from Noida</h1>
+<h1 align="left">Hi! My name is Dhanraj Singh and I'm a Web Developer, from Noida</h1>
 
 ###
 
